@@ -1,4 +1,5 @@
 # Tangerine VS Code Extension
 
-A short description of what the Tangerine extension does and how to use it.
-# VScode-deepseek-extension
+From a tutorial, an integrated deepseek chatbot for VScode. runs locally.
+
+I don't know why I called it Tangerine
